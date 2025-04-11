@@ -1,0 +1,5 @@
+{
+  "packageManager": "python",
+  "packageName": "omni_engineer_extension",
+  "uninstallInstructions": "Use your Python package manager (pip, conda, etc.) to uninstall the package omni_engineer_extension"
+}
